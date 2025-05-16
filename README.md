@@ -1,3 +1,6 @@
+# Try BrokkAI Today! 
+[BrokkAI](https://brokk.ai)
+
 # Command-Line Solitaire
 
 A classic Klondike Solitaire game playable in your command-line interface (PowerShell, CMD, bash, etc.). This Python-based game brings the timeless card game to your terminal with color support, scoring, and configurable draw modes.
